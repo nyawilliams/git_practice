@@ -1,0 +1,44 @@
+#brushes h2 {
+    background-color:darkblue;
+    color:deepskyblue;
+}
+
+#frames h2 {
+    background-color: darkblue;
+    color: deepskyblue;
+}
+
+#paint h2 {
+    background-color: darkblue;
+    color: deepskyblue;
+}
+
+.highlight{
+    background-color: darkblue;
+    color: white;
+}
+
+.highlight2{
+    background-color: darkblue;
+    color: white;
+}
+
+.highlight3{
+    background-color: darkblue;
+    color: white;
+}
+
+header{
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*pgeh1h*_ga*MDQ1NTA4MjQyOC4xNjc3NDcwMDA3*_ga_3LRZM6TM9L*MTY5MDM2MTAyMC4xNi4xLjE2OTAzNjEwMjcuNTMuMC4w');
+    height: 100px;
+    text-align: center;
+}
+
+
+
+
+
+body{
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+}
